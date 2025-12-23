@@ -4,42 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19fa21a6-4f38-4cbe-ae5e-cdba263008a6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/animal_shelter_api.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/auth/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/auth/auth_router.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/auth/auth_service.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/auth/security.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/core/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/core/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/core/database.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/dependencies.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/models/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/models/adoption.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/models/animal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/models/care.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/models/user.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/routers/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/routers/adoptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/routers/animals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/routers/care.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/schemas/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/schemas/adoption.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/schemas/animal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/schemas/care.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/schemas/user.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/services/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/services/adoption_service.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/services/animal_service.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/services/care_service.py" afterDir="false" />
-    </list>
+    <list default="true" id="19fa21a6-4f38-4cbe-ae5e-cdba263008a6" name="Changes" comment="animal_shelter_api_v1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,21 +20,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="37CtqslPdmsGwKYh5owmO0w8Vfn" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\WEB_PR\animal_shelter_api\app" />
@@ -92,6 +57,27 @@
       <option name="presentableId" value="Default" />
       <updated>1766419075158</updated>
     </task>
+    <task id="LOCAL-00001" summary="animal_shelter_api_v1">
+      <option name="closed" value="true" />
+      <created>1766464000826</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1766464000826</updated>
+    </task>
+    <task id="LOCAL-00002" summary="animal_shelter_api_v1">
+      <option name="closed" value="true" />
+      <created>1766464017411</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1766464017411</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="animal_shelter_api_v1" />
+    <option name="LAST_COMMIT_MESSAGE" value="animal_shelter_api_v1" />
   </component>
 </project>
